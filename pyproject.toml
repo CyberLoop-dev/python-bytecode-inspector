@@ -1,0 +1,6 @@
+[project]
+name = "python-bytecode-inspector"
+version = "1.0.0"
+description = "Inspect Python .pyc headers and safely disassemble compatible bytecode without executing it."
+requires-python = ">=3.10"
+dependencies = []
